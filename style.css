@@ -208,19 +208,19 @@ span{
 @keyframes words {
   0%,
   20%{
-    content: "Frontend Design";
+    content: "LLM Agents";
   }
   21%,
   40%{
-    content: "Web Designing";
+    content: "Computer Vision";
   }
   41%,
   60%{
-    content: "UI / UX ";
+    content: "GenAI";
   }
   61%,
   80%{
-    content: "Web Development";
+    content: "NLP";
   }
 }
 @keyframes typing {
@@ -544,4 +544,5 @@ border-bottom: 3px solid var(--main-color);;
     color: white;
   }
 }
+
 
